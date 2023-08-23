@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271803159478",
+    "project_id": "stylish-dd93b",
+    "storage_bucket": "stylish-dd93b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271803159478:android:f7fd116055a24fa8222717",
+        "android_client_info": {
+          "package_name": "com.hamzadev.stylish_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271803159478-h3v42hjabuakm7s71t325is66qlnmrh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hamzadev.stylish_app",
+            "certificate_hash": "371866fd1bebf9fafa2146156a29441fa342dd28"
+          }
+        },
+        {
+          "client_id": "271803159478-23rrn3v0gd8dufjv8bgla0vancmvju8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPRyPGog_coSrzUTpaZDawzQvwYa2yTXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271803159478-23rrn3v0gd8dufjv8bgla0vancmvju8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
